@@ -1,0 +1,9 @@
+C:\Users\ztt-pc\documents\visual studio 2015\Projects\aspnetMvc\Communcation\bin\Debug\Communcation.dll
+C:\Users\ztt-pc\documents\visual studio 2015\Projects\aspnetMvc\Communcation\bin\Debug\Communcation.pdb
+C:\Users\ztt-pc\documents\visual studio 2015\Projects\aspnetMvc\Communcation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ztt-pc\documents\visual studio 2015\Projects\aspnetMvc\Communcation\bin\Debug\RestSharp.dll
+C:\Users\ztt-pc\documents\visual studio 2015\Projects\aspnetMvc\Communcation\bin\Debug\System.ValueTuple.dll
+C:\Users\ztt-pc\documents\visual studio 2015\Projects\aspnetMvc\Communcation\bin\Debug\System.ValueTuple.xml
+C:\Users\ztt-pc\documents\visual studio 2015\Projects\aspnetMvc\Communcation\obj\Debug\Communcation.csprojResolveAssemblyReference.cache
+C:\Users\ztt-pc\documents\visual studio 2015\Projects\aspnetMvc\Communcation\obj\Debug\Communcation.dll
+C:\Users\ztt-pc\documents\visual studio 2015\Projects\aspnetMvc\Communcation\obj\Debug\Communcation.pdb

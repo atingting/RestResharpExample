@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetMvc", "aspnetMvc\aspnetMvc.csproj", "{A7947B84-FF96-4536-AB59-F31386C8CA94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communcation", "Communcation\Communcation.csproj", "{7A415A9A-E2A7-47A8-832E-ABE9E7855486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{A1730747-3598-41ED-8333-8B56B80A4806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7947B84-FF96-4536-AB59-F31386C8CA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7947B84-FF96-4536-AB59-F31386C8CA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7947B84-FF96-4536-AB59-F31386C8CA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7947B84-FF96-4536-AB59-F31386C8CA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A415A9A-E2A7-47A8-832E-ABE9E7855486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A415A9A-E2A7-47A8-832E-ABE9E7855486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A415A9A-E2A7-47A8-832E-ABE9E7855486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A415A9A-E2A7-47A8-832E-ABE9E7855486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1730747-3598-41ED-8333-8B56B80A4806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1730747-3598-41ED-8333-8B56B80A4806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1730747-3598-41ED-8333-8B56B80A4806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1730747-3598-41ED-8333-8B56B80A4806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
